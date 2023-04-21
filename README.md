@@ -1,4 +1,4 @@
-# Ascii-art-gen
+
 # ASCII Art Generator
 
 This is a Python program that generates **ASCII art from text using** the Pyfiglet library.
