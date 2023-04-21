@@ -12,10 +12,11 @@ arduino
 Copy code
 python ascii_art.py -t "Hello, world!" -f standard
 Options
--t, --text TEXT: Specify the text to convert to ASCII art (default is "Hello, world!")
--f, --font FONT: Specify the font to use for the ASCII art (default is "standard")
--o, --output OUTPUT: Specify the output file for the ASCII art
--h, --help: Display help text
+Option	Description
+-t, --text	Specify the text to convert to ASCII art (default is "Hello, world!")
+-f, --font	Specify the font to use for the ASCII art (default is "standard")
+-o, --output	Specify the output file for the ASCII art
+-h, --help	Display help text
 Fonts
 To see a list of available fonts, run the ascii_art.py script with the --list-fonts option:
 
